@@ -1,0 +1,27 @@
+img{
+	width: 100%;
+	height: auto;
+}
+
+.col-sm-9{
+	ackground-color: #e0e2e426 !important;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+}
+tr{
+	color: black;
+}
+
+h3{
+
+    color: #919191;
+    padding: 10px 0px 10px 0px;
+    font-size: 40px;
+    width: 95%;
+    margin-right: 5%;
+    background-image: linear-gradient(to right, #e1cbcb00,#97979773,#ffffff00);
+
+ }
+.col-sm-9 table{width: 95%;margin-right: 5%;color: white;}
+.col-sm-9 table a{color: #41CB3E;}
